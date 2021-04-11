@@ -1,9 +1,6 @@
 # useCounter Hook
 
 ## Ejemplo de uso
-```
-
-```
 
 ```
 import useCounter from "path/useCounter";
